@@ -1,1 +1,1 @@
-# c-core-bug-demo
+# PubNub Socket Demo
